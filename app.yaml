@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: trhogoro/iot:v2
+        image: trhogoro/iot:v1
         ports:
         - containerPort: 8080
 apiVersion: v1
